@@ -1,0 +1,6 @@
+{ "index":{} }
+{ "title":"Data Analyst","company":"Acme","location":"Dallas, TX","state":"TX","remote":true,"salary_min":90000,"salary_max":115000,"description":"SQL, Python, BI","url":"https://example.com/acme-da" }
+{ "index":{} }
+{ "title":"Junior Data Engineer","company":"Northwind","location":"Austin, TX","state":"TX","remote":false,"salary_min":85000,"salary_max":105000,"description":"ETL, Python","url":"https://example.com/nw-de" }
+{ "index":{} }
+{ "title":"Business Analyst (Healthcare)","company":"Contoso","location":"Remote","state":"WA","remote":true,"salary_min":80000,"salary_max":120000,"description":"Healthcare analytics","url":"https://example.com/ba-hc" }
